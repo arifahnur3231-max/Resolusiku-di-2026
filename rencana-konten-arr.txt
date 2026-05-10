@@ -5,7 +5,7 @@ RENCANA KONTEN ARR
   # Buket pita
   # Hampers
 - VLOG
-- KONTEN KELILING BERBAGAI NEGARA
+  < daily activity
 - Dimsum
     > Dimsum bakar mentai
     > Dimsum goreng
